@@ -1,3 +1,5 @@
+![Mi banner](banner-2.png)
+
 # 👋 Hello, I'm Martin Manrique
 
 ![Data Scientist](https://img.shields.io/badge/Data%20Scientist-%F0%9F%93%88-blue) ![Python Enthusiast](https://img.shields.io/badge/Python-Expert-brightgreen)
